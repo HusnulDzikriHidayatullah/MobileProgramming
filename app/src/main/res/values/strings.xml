@@ -5,4 +5,8 @@
     <string name="height">Tinggi</string>
     <string name="calculate">Hitung</string>
     <string name="result">Hasil</string>
+    <string name="contoh">contoh</string>
+    <string name="pindah_activity_dengan_data">pindah_activity_dengan_data</string>
+    <string name="zonk">zonk</string>
+    <string name="pincah_activity">pincah_activity</string>
 </resources>
